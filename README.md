@@ -43,7 +43,7 @@ Recrutes is a React.js Web Application and Flutter Cross-platform Mobile Applica
    -  Flutter Application
 
 
-## Screenshots
+## React Screenshots
 
 ### Dashboard
 ![Dashboard](https://i.imgur.com/Z8Qgaoc.png)
@@ -62,6 +62,23 @@ Recrutes is a React.js Web Application and Flutter Cross-platform Mobile Applica
 
 ### Send Notification (Coordinator Only)
 ![Send Notification](https://i.imgur.com/a2x1C0b.png)
+
+## Flutter Screenshots
+
+### Landing Page
+![Landing Page](https://i.imgur.com/wcjW85W.jpg)
+
+### Overview
+![Overview](https://i.imgur.com/W6Pxg0H.jpg)
+
+### Features 
+![Features](https://i.imgur.com/FTP3x05.jpg)
+
+### Dashboard
+![Dashboard](https://i.imgur.com/Ci0Kja1.jpg)
+
+### Profile
+![Profile](https://i.imgur.com/f29QaU8.jpg)
 
 ## LICENSE
 
